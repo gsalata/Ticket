@@ -36,3 +36,7 @@ npm run dev
 - `GET /api/concerts/<concert_id>/price-history`
 - `GET /api/concerts/<concert_id>/signal`
 - `POST /api/export`
+
+## Dashboard design notes
+
+- See `docs/dashboard_research.md` for quant-style dashboard research and prioritized visualization plan.
